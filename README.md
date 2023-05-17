@@ -9,4 +9,6 @@ okuryo/okuryo is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 aaa.bbb.ccc-abc.co.jp
+&%*%@!#!
+test@example.com
 
